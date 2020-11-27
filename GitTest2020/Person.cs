@@ -10,6 +10,7 @@ namespace GitTest2020
 
         public Person(string name)
         {
+            //initialiseret Name
             Name = name;
         }
     }
