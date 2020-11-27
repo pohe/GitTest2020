@@ -13,5 +13,10 @@ namespace GitTest2020
             //initialiseret Name
             Name = name;
         }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }
