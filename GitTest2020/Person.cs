@@ -8,6 +8,8 @@ namespace GitTest2020
     {
         public string Name { get; set; }
         public string Telephone { get; set; }
+        public int Id {get;set;}
+
         public Person(string name)
         {
 
